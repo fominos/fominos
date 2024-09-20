@@ -17,7 +17,7 @@ I am currently undergoing professional retraining in the field of Data Science. 
 ### Projects
 Alongside my studies, I have implemented several interesting projects:
 ***
-1. <b> Telegram Bot for TrakRadar:</b> Developed a Python bot that collects information about orders and payment requests, saves data to Google Drive, and provides feedback.
+1. <b> Telegram Bot for Truck Radar:</b> Developed a Python bot that collects information about orders and payment requests, saves data to Google Drive, and provides feedback.
 2. <b>Telegram Bot for Mushroom Edibility Prediction:</b>
 Created a bot that uses machine learning to determine whether a mushroom is poisonous or edible.
 3. <b>Telegram Bot for Image Analysis:</b>
