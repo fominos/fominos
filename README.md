@@ -4,6 +4,7 @@
 I am currently undergoing professional retraining in the field of Data Science. Throughout this program, I have studied:
 
 <li> Fundamentals of Analytics and Statistics
+<li> Data visualization fundamentals
 <li> SQL and Data Retrieval
 <li> Python Basics and Libraries for Data Analysis
 <li> Statistics and Big Data Analytics
@@ -12,7 +13,9 @@ I am currently undergoing professional retraining in the field of Data Science. 
 <li> Time Series Analysis
 <li> Recommender Systems
 <li> Computer Vision
-<li> Natural Language Processing</li>
+<li> Natural Language Processing
+<li> Data project management
+<li> Deep Learning</li>
 
 ### Projects
 Alongside my studies, I have implemented several interesting projects:
