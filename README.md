@@ -1,7 +1,7 @@
 ## Hi, I'm Katia 👋
 ### Education and Qualification
 
-I am currently undergoing professional retraining in the field of Data Science. Throughout this program, I have studied:
+I have successfully completed professional retraining in Data Science and obtained my diploma in April 2025. The comprehensive program covered the following key areas:
 
 <li> Fundamentals of Analytics and Statistics
 <li> Data visualization fundamentals
