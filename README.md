@@ -1,4 +1,6 @@
 ## Hi, I'm Katia 👋
+A recently qualified Data Scientist passionate about turning data into insights and building intelligent applications.
+
 ### Education and Qualification
 
 I have successfully completed professional retraining in Data Science and obtained my diploma in April 2025. The comprehensive program covered the following key areas:
