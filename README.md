@@ -31,7 +31,7 @@ Implemented a bot that analyzes images to determine if they are real or generate
 Developed a multimodal AI solution that analyzes artwork to identify origin (human/AI-generated), artistic style, emotional content, and generates comprehensive descriptions using combined CV and NLP approaches.
 5. <b>Document Stamp & Signature Detection API:</b>
 Developed a production-ready FastAPI service that uses a fine-tuned YOLO model to detect stamps and signatures in documents. The model was enhanced through training on 1,100 real documents, significantly improving detection accuracy and adding new signature recognition capabilities.
-6. <b>Smart Document Processing API</b>
+6. <b>Smart Document Processing API:</b>
 Developed an intelligent document analysis system that processes contracts and transportation documents using Yandex Vision OCR, YandexGPT for entity extraction, and RAG technology for large documents. Implements complex business logic for compliance validation and stamp/signature analysis.
 <!--
 **fominos/fominos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
