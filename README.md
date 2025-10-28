@@ -1,5 +1,5 @@
 ## Hi, I'm Katia 👋
-A recently qualified Data Scientist passionate about turning data into insights and building intelligent applications.
+Qualified Data Scientist passionate about turning data into insights and building intelligent applications.
 
 ### Education and Qualification
 
