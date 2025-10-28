@@ -23,11 +23,11 @@ I have successfully completed professional retraining in Data Science and obtain
 
 ### Advanced AI Systems & Computer Vision
 
-*   **Document Stamp & Signature Detection API**
+*   **Document Stamp & Signature Detection API** *(Commercial Project)*
     Engineered a production-ready FastAPI service utilizing a fine-tuned YOLO model. Enhanced model accuracy by training on 1,100 real documents, adding new signature recognition capabilities for automated document verification.
-*   **Smart Document Processing API**
+*   **Smart Document Processing API** *(Commercial Project)*
     Developed an intelligent document analysis system that processes contracts and transportation documents using Yandex Vision OCR, YandexGPT for entity extraction, and RAG technology for large documents. Implements complex business logic for compliance validation and stamp/signature analysis.
-*   **AI-Generated Image Detection Bot**
+*   **AI-Generated Image Detection Bot** *(Personal Project)*
     Created a Telegram bot that analyzes images to classify them as real or artificially generated, demonstrating expertise in image classification models.
 *   **Multimodal Art Analysis Bot** *(Diploma Project)*
     Developed a Telegram bot that performs multifaceted analysis of artworks. The AI solution distinguishes origin (human/AI-generated), classifies artistic style, detects emotional content, and generates comprehensive descriptions by combining Computer Vision and NLP techniques.
@@ -42,7 +42,7 @@ I have successfully completed professional retraining in Data Science and obtain
 
 ### Process Automation & Data Pipelines
 
-*   **Telegram Bot for Logistics (Truck Radar)**
+*   **Telegram Bot for Logistics (Truck Radar)** *(Commercial Project)*
     Developed a Python bot to streamline logistics operations by automating order and payment data collection, saving it to Google Sheets, and improving communication between dispatchers and managers.
 <!--
 **fominos/fominos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
